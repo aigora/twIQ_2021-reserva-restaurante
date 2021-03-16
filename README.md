@@ -18,5 +18,7 @@ Registro del usuario con una contraseña para poder realizar la reserva. En el m
     *Terraza
     
 -Número de integrantes.
+
 -Estado actual del restaurante.
+
 -Cancelación.
