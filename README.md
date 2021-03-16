@@ -1,10 +1,19 @@
 # [Título del trabajo]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Consiste en la realización de un menú de opciones tipo web de un restaurante para poder reservar una mesa. Se dispondrá de varias opciones: 
+
+-Emplazamiento:
+    *Dentro
+    *Terraza
+    
+-Número de integrantes.
+-Estado actual del restaurante.
+-Cancelación.
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+María Godoy Cámara, mariagodoy14
+Susana González Miguel, susanagonzalezmiguel
 
 ## Objetivos del trabajo
 
