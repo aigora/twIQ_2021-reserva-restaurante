@@ -14,8 +14,10 @@ Consiste en la realización de un menú de opciones tipo web de un restaurante p
 Registro del usuario con una contraseña para poder realizar la reserva. En el menú de opciones:
 
 -Emplazamiento:
-    *Dentro
-    *Terraza
+
+    -Dentro
+    
+    -Terraza
     
 -Número de integrantes.
 
