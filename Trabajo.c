@@ -1,7 +1,23 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define NPLAZAS 50
+
+struct usuario {
+	char nombre[50];
+	char contraseña[50];
+}; //registro usuario
+
+struct mesa {
+	int estado_actual; // 1 Ocupada 0 Libre
+	char tipo; //Terraza o Sala
+	char numero[3];
+};
 
 int main(){
 	char opcion;
+	int i;
+	struct usuario ;
 	
 	/*MENU D- Ver disponibilidad del restaurante
 	       C- Ver carta
