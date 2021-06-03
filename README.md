@@ -4,9 +4,6 @@ Consiste en la realización de un menú de opciones tipo web de un restaurante p
 
 ## Integrantes del equipo
 
--María Godoy Cámara, mariagodoy14.
-
-
 -Susana González Miguel, susanagonzalezmiguel.
 
 ## Objetivos del trabajo
